@@ -1,5 +1,5 @@
 # sp24-lab1
-A respository for the week 1 lab, getting to know GitHub
+## Activity: Editing and merging via a branch and a pull request
 
 Open up the person.py file in the code editor in the GitHub browser. (Don't make a fork! Work in this repository.)
 
@@ -14,4 +14,8 @@ What happens next?
 
 If you are able to merge your changes, go ahead and do so.
 
-If you are _not_ able to merge your changes... why is this happening? What might you do?
+If you are _not_ able to merge your changes... why is this happening? What might you do to be able to manage any merge conflicts that arise?
+
+_Write your notes about what happened below (along with your name), by editing this README.md file._
+
+...
