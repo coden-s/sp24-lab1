@@ -3,7 +3,7 @@
 
 _Note: For this activity, don't make a fork. Work directly in this repository._
 
-Open up the person.py file in the code editor in the GitHub browser (click on the file name, then the pencil icon). 
+Open up the pie.py file in the code editor in the GitHub browser (click on the file name, then the pencil icon). 
 
 Edit the file by:
 
