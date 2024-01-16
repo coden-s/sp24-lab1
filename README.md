@@ -26,3 +26,9 @@ Neel Troeger
 1. This code creates a pie object in Python, which is a class with different fields for defining the name of a type of pie, the filling, and what the crust of the pie is made of.
 
 I was able to merge the changes.
+
+Uli Raudales
+
+1. The code creates a Pie object using Python and has a __init__ method that automatically inits the Pie name, filling and crust properties when a Pie class instance is called.
+
+I was able to merge the changes
