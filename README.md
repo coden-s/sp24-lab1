@@ -27,8 +27,10 @@ Neel Troeger
 
 I was able to merge the changes.
 
+
 Uli Raudales
 
 1. The code creates a Pie object using Python and has a __init__ method that automatically inits the Pie name, filling and crust properties when a Pie class instance is called.
 
 I was able to merge the changes
+
