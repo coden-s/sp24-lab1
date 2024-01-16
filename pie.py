@@ -7,6 +7,7 @@ class Pie:
 p1 = Pie("Key lime", "lime custard", "graham cracker")
 p2 = Pie("Apple", "apples", "dough")
 p3 = Pie("Ice Cream Pie", "Coockie and Cream Ice Cream", "Oreos")
+p4 = Pie("Broreo Pot Pie, Brussel Sprouts and Chicken, "Minced Oreo")
 
 print(p1.name)
 print(p1.filling)
