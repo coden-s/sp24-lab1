@@ -23,6 +23,6 @@ _Write your notes about what happened below (along with your name), by editing t
 
 Neel Troeger
 
-1. This code creates a pie object in Python, which is defined as a tuple with different fields for defining the name of a type of pie, the filling, and what the crust of the pie is made of.
+1. This code creates a pie object in Python, which is a class with different fields for defining the name of a type of pie, the filling, and what the crust of the pie is made of.
 
 I was able to merge the changes.
