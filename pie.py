@@ -5,7 +5,8 @@ class Pie:
     self.crust = crust
 
 p1 = Pie("Key lime", "lime custard", "graham cracker")
+p2 = Pie("Chocolate silk", "chocolate mousse", "graham cracker")
 
-print(p1.name)
-print(p1.filling)
-print(p1.crust)
+print(p2.name)
+print(p2.filling)
+print(p2.crust)
