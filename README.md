@@ -1,7 +1,9 @@
 # sp24-lab1
 ## Activity: Editing and merging via a branch and a pull request
 
-Open up the pie.py file in the code editor in the GitHub browser (click on the file name, then the pencil icon). 
+Open up the pie.py file in the code editor in the GitHub browser: 
+1. Right click on the file name to open it in a new tab, so you can still read these instructions.
+2. Then click the pencil icon.
 
 Edit the file by:
 
