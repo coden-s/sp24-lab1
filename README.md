@@ -7,7 +7,7 @@ Open up the `pie.py` file in the code editor in the GitHub browser:
 
 Edit the file:
 1. Read through the code and ask yourself: What does this code do? What will the outputs be?
-2. Create a new `Pie` object, `p2`, that contains a different kind of pie.
+2. Create a new `Pie` object that contains a different kind of pie.
 
 Once you've made these changes, click **"Commit changes..."** and select **"Create a new branch for this commit and start a pull request."** Follow the directions to commit your changes.
 
