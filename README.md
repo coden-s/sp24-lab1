@@ -34,3 +34,7 @@ Uli Raudales
 
 I was able to merge the changes
 
+#### Grant Didway
+- The code creates a Pie object. A Pie object by this definition has a name, filling and crust which are passed upon instantiation
+- I was able to merge the changes
+
