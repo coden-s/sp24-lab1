@@ -8,7 +8,7 @@ Edit the file by:
 1. Adding a new attribute (it can be anything you want) to the person class.
 2. Creating a new person object, p2, that represents you (i.e., your name and age).
 
-Once you've made these changes, click "Commit changes..." and select "Create a new branch for this commit and start a pull request." Follow the directions to commit your changes.
+Once you've made these changes, click *"Commit changes..."* and select *"Create a new branch for this commit and start a pull request."* Follow the directions to commit your changes.
 
 What happens next? 
 
