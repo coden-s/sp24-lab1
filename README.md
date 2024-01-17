@@ -46,3 +46,6 @@ Jas Liu
 1. created a pie object with a name, filling, and dough
 2. yes i was able to merge
 
+Coden Stark:
+1. it makes a new pie object that has a name, filling, and dough.
+2. I think i was able to merge.
